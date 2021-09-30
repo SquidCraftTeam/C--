@@ -6,5 +6,5 @@ int main()
 {
     int a;
     cin >> a;
-    cout << "��ֵΪ��" + a << endl;
+    cout << "锟斤拷值为锟斤拷" + a << endl;
 }
